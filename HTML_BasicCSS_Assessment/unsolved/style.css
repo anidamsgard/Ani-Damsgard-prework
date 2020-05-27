@@ -1,0 +1,9 @@
+
+ 
+ body{ margin: auto;
+  line-height: 1.5; 
+  text-transform: uppercase; font-family: Arial, Helvetica, sans-serif; font-size: 15px;font-weight: bold; background-color: #5bb0c9;}
+  header {color: white;position: top;}
+  p{ text-align: center; font-size: 10px; font-weight: normal;padding-top: 20%;}
+  h1 {text-align: center;font-weight: bold; font-size: 45px; color: white;}
+  div{ width: 250px;margin: auto; border: 2px solid white; text-align: center;color: white;font-size: 10px; font-weight: normal;}
