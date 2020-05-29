@@ -1,0 +1,9 @@
+* {box-sizing: border-box;text-align: center;}
+
+header{background: gray;padding: bottom 20px;}
+
+#left{background: blue;width: 50%;float: left;margin-top: 30px;height: 300px;line-height: 300px;}
+
+#right{background: crimson;width: 25%;float: right;margin-left: 25%;margin-top: 30px;height: 300px;line-height: 300px;}
+
+footer {background: green; clear: both;position: fixed;bottom: 0;width: 100%;}
